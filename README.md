@@ -1,10 +1,10 @@
 # xyz-test
 Тестовое задание на позицию Frontend/tilda developer
 
-#Результат тестового задания
+Результат тестового задания:
 http://xyz-testpage.tilda.ws/
 
-#Задание
+Задание
 Сверстать страницу на Tilda по макету в Figma:
 
 https://www.figma.com/file/4lYuxk79kG87uMW5jbYo3W/Testpage-for-Tilda?node-id=0%3A1
